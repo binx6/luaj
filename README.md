@@ -16,6 +16,8 @@ Ps：初衷是其中的parser在我写项目的时候有用武之地，但是只
 - 这里给出一份parser Chunk（语句组）小技巧，封装了一下
 
 ```java
+import java.io.StringReader;
+import java.lang.String;
 import org.luaj.vm2.ast.*;
 import org.luaj.vm2.parser.*;
 
