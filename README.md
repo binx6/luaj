@@ -11,7 +11,7 @@ Ps：初衷是其中的parser在我写项目的时候有用武之地（~~对，�
 - [x] 修复历史遗留的一些issue
 - [ ] luajc & script & server & jme（全部舍弃）
 
-## 使用小技巧⭐
+## 使用小技巧🌟
 
 - 这里给出一份parser Chunk（语句组）小技巧，封装了一下
 
@@ -31,7 +31,7 @@ public static String luaChunk(String chunk) {
 }
 ```
 
-除了Chunk这些也是同理，换汤不换药
+- 除了Chunk这些也是同理，换汤不换药
 
 ```md
 这些也很重要，尤其是在分析不透明谓词，分析控制流结构的时候等等
