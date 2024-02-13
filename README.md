@@ -11,7 +11,7 @@ Ps：初衷是其中的parser在我写项目的时候有用武之地（~~对，�
 - [x] 修复历史遗留的一些issue
 - [ ] luajc & script & server & jme（全部舍弃）
 
-## 使用小技巧
+## 使用小技巧⭐
 
 - 这里给出一份parser Chunk（语句组）小技巧，封装了一下
 
